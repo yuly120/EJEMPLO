@@ -16,7 +16,7 @@ Este proyecto es parte de un proceso de aprendizaje sobre desarrollo Frontend.
 ## Instalación y Uso
 
 1. Clona el repositorio:
-   https://github.com/ROB-ARK/ejemplos-reak.git
+   https://github.com/yuly120/EJEMPLO.git
 
 2. Entra a la carpeta del proyecto:
    cd nombre-app
